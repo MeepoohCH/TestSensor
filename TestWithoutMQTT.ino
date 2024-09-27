@@ -1,6 +1,6 @@
 #include "DHT.h"
 
-#define LED_PIN 18  // ขาที่ต่อกับ LED
+#define LED_PIN 26  // ขาที่ต่อกับ LED
 #define DHTPIN 25   // ขาที่ต่อเซนเซอร์ DHT11
 #define DHTTYPE DHT11
 #define LDR_PIN 32  // ขาที่ต่อกับ LDR (ขา ADC)
